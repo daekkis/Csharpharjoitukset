@@ -1,0 +1,2 @@
+# Csharpharjoitukset
+Ensimmäinen C# treeni
